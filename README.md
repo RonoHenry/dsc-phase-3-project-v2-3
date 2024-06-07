@@ -1,7 +1,9 @@
 # ChurnShield: Protecting Customer Relationships Through Predictive Intelligence
 ***Overview**
+
 ChurnShield is a predictive intelligence solution developed specifically for Horizon Trust Bank to tackle customer churn. The model utilizes advanced machine learning techniques to analyze customer demographics, banking behaviors, and historical churn data. By proactively identifying potential churners, ChurnShield empowers Horizon Trust Bank to implement targeted retention strategies and safeguard customer relationships.
-**Key Features**
+
+## Key Features
 **Business Understanding**
 ChurnShield emphasizes the significance of predicting customer churn for Horizon Trust Bank's revenue, profitability, and customer relationships. Understanding the cost implications of customer loss and the benefits of retention helps the bank prioritize its resources effectively.
 
